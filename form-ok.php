@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="ru">
+﻿<!DOCTYPE html>
+<html lang="ru1">
     <head>
         <meta charset="utf-8">
         <title>Поздравляем! Ваш заказ принят!</title>
