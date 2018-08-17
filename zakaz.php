@@ -1,7 +1,7 @@
-<?php 
+﻿<?php 
 $name = stripslashes(htmlspecialchars($_POST['name']));
 $phone = stripslashes(htmlspecialchars($_POST['phone']));
-
+qqq
 if($_GET['product_id']){
     $product_id = $_GET['product_id'];
 }else{
