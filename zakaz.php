@@ -2,11 +2,7 @@
 $name = stripslashes(htmlspecialchars($_POST['name']));
 $phone = stripslashes(htmlspecialchars($_POST['phone']));
 qq
-<<<<<<< HEAD
-hi nwe branch
-=======
-branch master
->>>>>>> master
+
 if($_GET['product_id']){
     $product_id = $_GET['product_id'];
 }else{
